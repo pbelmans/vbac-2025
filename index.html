@@ -1,0 +1,40 @@
+---
+title: Vector Bundles on Curves &ndash; Quivers and Sheaves
+subtitle: workshop at Utrecht University, May 14 and 15, 2025
+layout: page
+hide_footer: true
+---
+<h3>Description</h3>
+
+<h3>List of speakers</h3>
+<p>More names will be announced, and there will be opportunities for contributed talks by junior participants.
+<ul class="names">
+{% for speaker_id in site.data.speakers %}
+{% assign speaker = speaker_id[1] %}
+  <li><span class="name">
+  {% if speaker.website %}
+    <a href="{{ speaker.website }}">{{ speaker.name }}</a>
+  {% else %}
+    {{ speaker.name }}
+  {% endif %}
+  </span>
+  {% if speaker.online %}
+    *
+  {% endif %}
+  (<span class="affiliation">{{ speaker.affiliation }}</span>)
+{% endfor %}
+</ul>
+
+
+<h3>Organisation</h3>
+<p>The workshop is organised by
+<ul>
+  <li><a href="https://pbelmans.ncag.info">Pieter Belmans</a> (Utrecht University)
+  <li><a href="https://webspace.science.uu.nl/~kool0009/">Martijn Kool</a> (Utrecht University)
+  <li><a href="https://www.math.ru.nl/~vhoskins/">Victoria Hoskins</a> (Radboud University Nijmegen)
+</ul>
+
+<p>The workshop is supported by
+<a href="https://gqt.nl">Geometry and Quantum Theory (GQT) cluster</a>,
+and <a href="https://nwo.nl">Dutch Research Council (NWO)</a>
+through <a href="https://cats.ncag.info">CatsINCAGe</a>

@@ -1,0 +1,19 @@
+---
+---
+//$primary: rgb(226, 219, 186);
+$primary: rgb(49, 82, 3);
+// Import Main CSS file from theme
+@import "main";
+
+html {
+  background-color: rgb(226, 219, 186);
+}
+
+h1.title, p.subtitle {
+  color: rgb(238, 203, 2);
+}
+
+hr {
+  background-color: black;
+  height: 1px;
+}
