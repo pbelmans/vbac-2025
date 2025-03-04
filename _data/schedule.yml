@@ -1,0 +1,26 @@
+- date: Wednesday, May 14
+  slots:
+    [
+      { time: "09:30&ndash;10:00", other: "registration" },
+      { time: "10:00&ndash;11:00", talk: },
+      { time: "11:00&ndash;11:30", other: "break" },
+      { time: "11:30&ndash;12:30", talk: },
+      { time: "12:30&ndash;14:00", other: "lunch" },
+      { time: "14:00&ndash;14:40", talk: },
+      { time: "14:50&ndash;15:30", talk: },
+      { time: "15:30&ndash;16:00", other: "break" },
+      { time: "16:00&ndash;17:00", talk: },
+    ]
+
+- date: Thursday, May 15
+  slots:
+    [
+      { time: "09:30&ndash;10:30", talk: },
+      { time: "10:30&ndash;11:00", other: "break" },
+      { time: "11:00&ndash;11:40", talk: },
+      { time: "11:50&ndash;12:30", talk: },
+      { time: "12:30&ndash;14:00", other: "lunch" },
+      { time: "14:00&ndash;15:00", talk: },
+      { time: "15:00&ndash;15:30", other: "break" },
+      { time: "15:30&ndash;16:30", talk: },
+    ]
