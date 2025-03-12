@@ -13,12 +13,17 @@ nesterov:
   affiliation: ETH Zurich
   website: https://sites.google.com/view/denisnesterov/home
 
+reineke:
+  name: Markus Reineke
+  affiliation: Bochum University
+  website: https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebra/reineke.html.de
+
 schiffmann:
   name: Olivier Schiffmann
   affiliation: Université de Paris-Saclay
   website: https://sites.google.com/site/olivierschiffmann/
 
-reineke:
-  name: Markus Reineke
-  affiliation: Bochum University
-  website: https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Algebra/reineke.html.de
+trapeznikova:
+  name: Olga Trapeznikova
+  affiliation: Université de Genève
+  website: https://www.unige.ch/math/en/section/alumni/alumni-2023/olga-trapeznikova
