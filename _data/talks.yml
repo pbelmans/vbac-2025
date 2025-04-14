@@ -4,3 +4,8 @@ vernet:
   abstract: >
     <p>Kac polynomials are counts of quiver representations over finite fields, whose coefficients are non-negative and encode the graded dimensions of the so-called BPS Lie algebra. This Lie algebra sits inside the cohomological Hall algebra built from the cohomology of certain quiver moduli.
     <p>In this work, I study a generalisation of Kac polynomials to rings of truncated power series over finite fields, for certain dimension vectors. The main result is that these polynomials have non-negative coefficients and encode the graded dimensions of a certain subspace in the cohomology of jet spaces over the aforementioned quiver moduli. This behaviour is quite similar to that of the usual Kac polynomials.
+
+numpaque:
+  speaker: numpaque
+  title: Tensor products of quiver bundles.
+  abstract: <p>In this work we introduce a notion of tensor product of (twisted) quiver representations with relations in the category of O_X-modules. As a first application of our notion, we see that tensor products of polystable quiver bundles are polystable and later we use this to both deduce a quiver version of the Segre embedding and to identify distinguished closed subschemes of $\mathrm{GL}(n, \mathbb{C})$-character varieties of free abelian groups.
