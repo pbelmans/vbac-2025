@@ -7,5 +7,15 @@ vernet:
 
 numpaque:
   speaker: numpaque
-  title: Tensor products of quiver bundles.
+  title: Tensor products of quiver bundles
   abstract: <p>In this work we introduce a notion of tensor product of (twisted) quiver representations with relations in the category of O_X-modules. As a first application of our notion, we see that tensor products of polystable quiver bundles are polystable and later we use this to both deduce a quiver version of the Segre embedding and to identify distinguished closed subschemes of $\mathrm{GL}(n, \mathbb{C})$-character varieties of free abelian groups.
+
+peerenboom:
+  speaker: peerenboom
+  title: CoHAs of torsion sheaves on weighted projective lines
+  abstract: <p>In this talk, I describe the cohomological Hall algebra of torsion sheaves on a weighted projective line with weights $(2,\ldots,2)$ in terms of generators and relations. This extends work of Franzen--Reineke on the CoHA of semistable representations of the Kronecker quiver.
+
+schiffmann:
+  speaker: schiffmann
+  title: Cohomological Hall algebras of Higgs sheaves on curves over $\mathrm{M}_g$ and positivity of Kac polynomials
+  abstract: <p>We define a version of the cohomological Hall algebra of Higgs sheaves which lives over the moduli space of smooth genus $g$ curves, and show that it forms a local system. We deduce from this the existence of a 'generic' version of the BPS Lie algebra, which is a Lie algebra object in the category of $\mathrm{GSp}(2g,\mathbb{C})$-modules and use this to prove some strong positivity property of Kac polynomials counting indecomposable vector bundles over curves defined over finite fields.
