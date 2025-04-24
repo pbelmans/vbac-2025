@@ -1,9 +1,7 @@
-vernet:
-  speaker: vernet
-  title: Positivity for toric Kac polynomials in higher depth
-  abstract: >
-    <p>Kac polynomials are counts of quiver representations over finite fields, whose coefficients are non-negative and encode the graded dimensions of the so-called BPS Lie algebra. This Lie algebra sits inside the cohomological Hall algebra built from the cohomology of certain quiver moduli.
-    <p>In this work, I study a generalisation of Kac polynomials to rings of truncated power series over finite fields, for certain dimension vectors. The main result is that these polynomials have non-negative coefficients and encode the graded dimensions of a certain subspace in the cohomology of jet spaces over the aforementioned quiver moduli. This behaviour is quite similar to that of the usual Kac polynomials.
+craw:
+  speaker: craw
+  title: The Cautis-Logvinenko conjecture
+  abstract: <p>For a finite subgroup $G$ of $\mathrm{SL}(3,\mathbb{C})$, the $G$-Hilbert scheme is a crepant resolution of the quotient singularity $\mathbb{C}^3/G$, and the universal family determines a derived equivalence between the derived category of $G$-equivariant coherent sheaves on $\mathbb{C}^3$ on one hand, and the derived category of coherent sheaves on $G$-Hilb on the other.  In their 2009 paper, Cautis and Logvinenko conjectured that this derived equivalence sends the vertex simple $G$-sheaves, one for each nontrivial irreducible representation of $G$, to pure sheaves on $G$-Hilb. I will explain the importance of this statement to the McKay correspondence, and I will report on joint work with Ryo Yamagishi towards a proof of this conjecture.
 
 numpaque:
   speaker: numpaque
@@ -15,7 +13,25 @@ peerenboom:
   title: CoHAs of torsion sheaves on weighted projective lines
   abstract: <p>In this talk, I describe the cohomological Hall algebra of torsion sheaves on a weighted projective line with weights $(2,\ldots,2)$ in terms of generators and relations. This extends work of Franzen--Reineke on the CoHA of semistable representations of the Kronecker quiver.
 
+reineke:
+  speaker: reineke
+  title: Motives of central slope Kronecker moduli
+  abstract: >
+    <p>Kronecker moduli are algebraic varieties parametrizing linear
+    algebra data up to base change. They are special cases of quiver moduli
+    spaces, with close connections and similarities to moduli spaces of
+    vector bundles on curves. We consider generating series of motives of
+    these spaces, and discuss recent results characterizing these series by
+    explicit functional equations.
+
 schiffmann:
   speaker: schiffmann
   title: Cohomological Hall algebras of Higgs sheaves on curves over $\mathrm{M}_g$ and positivity of Kac polynomials
   abstract: <p>We define a version of the cohomological Hall algebra of Higgs sheaves which lives over the moduli space of smooth genus $g$ curves, and show that it forms a local system. We deduce from this the existence of a 'generic' version of the BPS Lie algebra, which is a Lie algebra object in the category of $\mathrm{GSp}(2g,\mathbb{C})$-modules and use this to prove some strong positivity property of Kac polynomials counting indecomposable vector bundles over curves defined over finite fields.
+
+vernet:
+  speaker: vernet
+  title: Positivity for toric Kac polynomials in higher depth
+  abstract: >
+    <p>Kac polynomials are counts of quiver representations over finite fields, whose coefficients are non-negative and encode the graded dimensions of the so-called BPS Lie algebra. This Lie algebra sits inside the cohomological Hall algebra built from the cohomology of certain quiver moduli.
+    <p>In this work, I study a generalisation of Kac polynomials to rings of truncated power series over finite fields, for certain dimension vectors. The main result is that these polynomials have non-negative coefficients and encode the graded dimensions of a certain subspace in the cohomology of jet spaces over the aforementioned quiver moduli. This behaviour is quite similar to that of the usual Kac polynomials.
