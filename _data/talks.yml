@@ -3,6 +3,11 @@ craw:
   title: The Cautis-Logvinenko conjecture
   abstract: <p>For a finite subgroup $G$ of $\mathrm{SL}(3,\mathbb{C})$, the $G$-Hilbert scheme is a crepant resolution of the quotient singularity $\mathbb{C}^3/G$, and the universal family determines a derived equivalence between the derived category of $G$-equivariant coherent sheaves on $\mathbb{C}^3$ on one hand, and the derived category of coherent sheaves on $G$-Hilb on the other.  In their 2009 paper, Cautis and Logvinenko conjectured that this derived equivalence sends the vertex simple $G$-sheaves, one for each nontrivial irreducible representation of $G$, to pure sheaves on $G$-Hilb. I will explain the importance of this statement to the McKay correspondence, and I will report on joint work with Ryo Yamagishi towards a proof of this conjecture.
 
+latyntsev:
+  speaker: latyntsev
+  title: Vertex structures on critical CoHAs, Drinfeld coproducts, and factorisation
+  abstract: <p>What is the "maximal" amount of algebraic/representation theoretic structure one expects to exist on CoHAs? In the critical case, we will explain the answer to this question --- constructing a quantum group structure with a coproduct for each cohomology generator, generalising Drinfeld's meromorphic coproduct and abelian R-matrix on the Yangian. (Joint with S. Kaubrys and S. Jindal) We will also discuss how to bosonise/double in this setting, and if time allows, future work on obtaining these structures geometrically via factorisation spaces.
+
 numpaque:
   speaker: numpaque
   title: Tensor products of quiver bundles
