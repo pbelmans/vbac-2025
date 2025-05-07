@@ -8,6 +8,11 @@ latyntsev:
   title: Vertex structures on critical CoHAs, Drinfeld coproducts, and factorisation
   abstract: <p>What is the "maximal" amount of algebraic/representation theoretic structure one expects to exist on CoHAs? In the critical case, we will explain the answer to this question --- constructing a quantum group structure with a coproduct for each cohomology generator, generalising Drinfeld's meromorphic coproduct and abelian R-matrix on the Yangian. (Joint with S. Kaubrys and S. Jindal) We will also discuss how to bosonise/double in this setting, and if time allows, future work on obtaining these structures geometrically via factorisation spaces.
 
+nesterov:
+  speaker: nesterov
+  title: Counting curves in moduli spaces of Higgs bundles
+  abstract: This talk will be about curve-counting invariants of moduli spaces of Higgs bundles, their relation to Vafa–Witten theory, S-duality, and mirror symmetry, as well as some hopes and expectations.
+
 numpaque:
   speaker: numpaque
   title: Tensor products of quiver bundles
