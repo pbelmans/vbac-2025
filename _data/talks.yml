@@ -44,6 +44,11 @@ schiffmann:
   title: Cohomological Hall algebras of Higgs sheaves on curves over $\mathrm{M}_g$ and positivity of Kac polynomials
   abstract: <p>We define a version of the cohomological Hall algebra of Higgs sheaves which lives over the moduli space of smooth genus $g$ curves, and show that it forms a local system. We deduce from this the existence of a 'generic' version of the BPS Lie algebra, which is a Lie algebra object in the category of $\mathrm{GSp}(2g,\mathbb{C})$-modules and use this to prove some strong positivity property of Kac polynomials counting indecomposable vector bundles over curves defined over finite fields.
 
+trapeznikova:
+  speaker: trapeznikova
+  title: Parabolic bundles and the intersection cohomology of moduli spaces of vector bundles on curves
+  abstract: <p>The study of the intersection cohomology of moduli spaces of semistable bundles on Riemann surfaces began in the 80’s with the works of Frances Kirwan. Motivated by the work of Mozgovoy and Reineke, in joint work with Camilla Felisetti and Andras Szenes, we give a complete description of these structures via a detailed analysis of the Decomposition Theorem applied to a certain map. In this talk, I will describe our results.
+
 vernet:
   speaker: vernet
   title: Positivity for toric Kac polynomials in higher depth
