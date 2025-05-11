@@ -11,7 +11,7 @@ craw:
 latyntsev:
   speaker: latyntsev
   title: Vertex structures on critical CoHAs, Drinfeld coproducts, and factorisation
-  abstract: <p>What is the "maximal" amount of algebraic/representation theoretic structure one expects to exist on CoHAs? In the critical case, we will explain the answer to this question --- constructing a quantum group structure with a coproduct for each cohomology generator, generalising Drinfeld's meromorphic coproduct and abelian R-matrix on the Yangian. (Joint with S. Kaubrys and S. Jindal) We will also discuss how to bosonise/double in this setting, and if time allows, future work on obtaining these structures geometrically via factorisation spaces.
+  abstract: <p>What is the "maximal" amount of algebraic/representation theoretic structure one expects to exist on CoHAs? In the critical case, we will explain the answer to this question - constructing a quantum group structure with vertex coproduct coloured by cohomology generators, which we show generalises Drinfeld's meromorphic coproduct for Yangians, and give a conceptual definition of extending general CoHAs. (Joint with S. Kaubrys and S. Jindal) We discuss future work on obtaining these structures geometrically via factorisation spaces.
 
 nesterov:
   speaker: nesterov
